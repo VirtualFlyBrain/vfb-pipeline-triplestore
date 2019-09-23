@@ -1,1 +1,1 @@
-docker build . -t matentzn/vfb-pipeline-updatetriplestore
+docker build . -t matentzn/vfb-pipeline-triplestore
